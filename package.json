@@ -1,0 +1,20 @@
+{
+  "name": "reactintro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julminador/reactIntro.git"
+  },
+  "keywords": [],
+  "author": "Julian Sanchez <https://github.com/julminador>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julminador/reactIntro/issues"
+  },
+  "homepage": "https://github.com/julminador/reactIntro#readme"
+}
